@@ -1,7 +1,0 @@
-[theme]
-base = "dark"
-primaryColor = "#9F7AEA"  # Лавандово-фиолетовый акцент
-backgroundColor = "#0B0C10"  # Почти чёрный космический фон
-secondaryBackgroundColor = "#1A1C22"  # Глубокий серо-синий для блоков
-textColor = "#E5E5E5"  # Мягкий светло-серый текст
-font = "sans serif"
